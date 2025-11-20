@@ -21,8 +21,8 @@
                             <addClasspath>true</addClasspath>
                             <mainClass>com.example.MainApplication</mainClass>
                         </manifest>
-                   <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
+                    </archive>
+                </configuration>
             </plugin>
         </plugins>
     </build>
